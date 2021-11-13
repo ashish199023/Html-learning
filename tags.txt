@@ -1,0 +1,4 @@
+<h> = used for heading
+<p> = used for paragraph
+<a href > = used for inject link in html 
+<img src="image.jpg"alt="alternative text"width="width"height="in cm">
